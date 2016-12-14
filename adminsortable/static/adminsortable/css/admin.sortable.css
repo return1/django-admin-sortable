@@ -10,6 +10,18 @@
 	margin-left: 1em;
 }
 
+#sortable ul li
+{
+    background-color: #EDF3FE;
+    border: 1px solid #CCC;
+    margin: 5px 0px;
+    padding: 5px 5px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 498px;
+}
+
 #sortable ul li,
 #sortable ul li a
 {
